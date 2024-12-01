@@ -2,6 +2,10 @@
 
 **Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org).**
 
+<br>
+Aditya Jain
+<br>
+
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
